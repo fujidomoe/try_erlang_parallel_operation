@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/certifi/certifi.iml" filepath="$PROJECT_DIR$/_build/default/lib/certifi/certifi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/hackney/hackney.iml" filepath="$PROJECT_DIR$/_build/default/lib/hackney/hackney.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/idna/idna.iml" filepath="$PROJECT_DIR$/_build/default/lib/idna/idna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/metrics/metrics.iml" filepath="$PROJECT_DIR$/_build/default/lib/metrics/metrics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/mimerl/mimerl.iml" filepath="$PROJECT_DIR$/_build/default/lib/mimerl/mimerl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/parse_trans/parse_trans.iml" filepath="$PROJECT_DIR$/_build/default/lib/parse_trans/parse_trans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/ssl_verify_fun/ssl_verify_fun.iml" filepath="$PROJECT_DIR$/_build/default/lib/ssl_verify_fun/ssl_verify_fun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_build/default/lib/unicode_util_compat/unicode_util_compat.iml" filepath="$PROJECT_DIR$/_build/default/lib/unicode_util_compat/unicode_util_compat.iml" />
+    </modules>
+  </component>
+</project>
